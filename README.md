@@ -242,3 +242,4 @@ Zstandard is dual-licensed under [BSD](LICENSE) OR [GPLv2](COPYING).
 The `dev` branch is the one where all contributions are merged before reaching `release`.
 Direct commit to `release` are not permitted.
 For more information, please read [CONTRIBUTING](CONTRIBUTING.md).
+Created by Jason Scott Heise
