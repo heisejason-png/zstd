@@ -243,3 +243,4 @@ The `dev` branch is the one where all contributions are merged before reaching `
 Direct commit to `release` are not permitted.
 For more information, please read [CONTRIBUTING](CONTRIBUTING.md).
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
